@@ -35,4 +35,4 @@ docker build -f DockerContainer/Dockerfile -t studyboard:project1 .
 docker run --rm -p 8080:80 studyboard:project1
 ```
 
-Open <http://localhost:8080>. Replace the marked image placeholders with the teammate's final image assets before submission. Project 2 services, authentication, Gemini, ADK, Firestore, and AWS setup documentation are intentionally out of scope for this implementation.
+Open <http://localhost:8080>. 
