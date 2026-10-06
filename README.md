@@ -285,3 +285,5 @@ For Part 3, the production-built frontend was successfully deployed using **Amaz
 ### Live StudyBoard Website
 
 http://cs651-studyboard.s3-website.us-east-2.amazonaws.com/
+
+AI use: Claude (Anthropic), ChatGPT (OpenAI) and GitHub Copilot helped plan the deployment steps, work through code and commands, check AWS prices and limits, and draft and edit this documentation. We ran every command, made every console change and took every screenshot ourselves.
